@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv"/>
+    <h1 align="center">Hi 👋, I'm JaviVara</h1>
+    <h3 align="center">I am passionate about full-stack application development. 
+        I enjoy bringing to life the ideas and dreams I have and understanding the workings of everything. 
+        This has led me to learn programming to understand how things around me function. 
+        Currently, I am working on developing my own video game.</h3>
+</div>
+
 
 <!--
 **jvaradev/jvaradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
