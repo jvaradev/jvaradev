@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 About Me:
+### About Me 👨‍💻:
 - :movie_camera: Welcome to my Youtube's Channel [JVaraDev](https://www.youtube.com/channel/UCuqaTWVeYo-YIN6rwL79qLA)
 - :bird: Sharing my day-to-day [JVaraDev on Twitter](https://x.com/jvaradev?t=foWxoyaOgrAqUdhF9e14tg&s=09)
 - :books: I'm currently learning **C# and Unity**
@@ -67,4 +67,12 @@
     alt="Atom" width="40" height="40">&nbsp;
 </div>
 
+---
+
+### My Stats :bar_chart::
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jvaradev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![JVaraDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvaradev&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvaradev)](https://github.com/anuraghazra/github-readme-stats)
 
