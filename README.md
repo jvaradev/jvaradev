@@ -22,9 +22,11 @@
 ---
 
 ### About Me 👨‍💻:
+- 🎓 Application developer
 - :movie_camera: Welcome to my Youtube's Channel [JVaraDev](https://www.youtube.com/channel/UCuqaTWVeYo-YIN6rwL79qLA)
 - :bird: Sharing my day-to-day [JVaraDev on Twitter](https://x.com/jvaradev?t=foWxoyaOgrAqUdhF9e14tg&s=09)
 - :books: I'm currently learning **C# and Unity**
+- :video_game: Developing my own video-game
 
 ---
 
