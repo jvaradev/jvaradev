@@ -34,7 +34,7 @@
     <h2>Lenguages 📔</h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" 
     alt="Java" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Arduino" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" 
     alt="Arduino" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" 
     alt="MySql" width="40" height="40">&nbsp;
@@ -55,7 +55,7 @@
     <h2>Tools 🔧</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" 
     alt="Android" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="AndroidStudio" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" 
     alt="Android" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" 
     alt="Intellij" width="40" height="40">&nbsp;
