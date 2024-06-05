@@ -48,6 +48,9 @@
     alt="VisualBasic" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" 
     alt="Arduino" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Arduino" 
+    alt="Arduino" width="40" height="40">&nbsp;
+
 </div>
 <div id="Tools" align="left">
     <h2>Tools 🔧</h2>
